@@ -1,4 +1,4 @@
-# sketch-easyBorder
+# sketch-easyBorder (cmd+shift+y)
 
 A simple plugin to add a border to an artboard.
 
