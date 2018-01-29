@@ -2,4 +2,4 @@
 
 A simple plugin to add a border to an artboard.
 
-![Easy Border example](sketch-easyBorder/demo.gif)
+![Easy Border example](https://github.com/ramyar2cm/sketch-easyBorder/blob/master/demo.gif)
